@@ -41,6 +41,24 @@
 
 <br/>
 
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> &nbsp; Live Pulse
+
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/1tzvaish/1tzvaish?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Last%20Update" />
+  &nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/1tzvaish/1tzvaish?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Monthly%20Commits" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/1tzvaish/1tzvaish?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Profile%20Repo%20Stars" />
+</div>
+
+<details>
+<summary><b>⚡ Real-time profile snapshot (tap to expand)</b></summary>
+<br/>
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1tzvaish&theme=tokyonight" />
+</div>
+</details>
+
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
