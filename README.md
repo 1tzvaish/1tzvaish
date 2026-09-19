@@ -251,29 +251,6 @@ Always cooking something new. Bigger projects are in the pipeline — watch this
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-
-<!-- ANIMATED WAVE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--              ANIMATED FOOTER CTA                        -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-<div align="center">
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22"> &nbsp; Let's Build Something Together
-
-<a href="https://www.linkedin.com/in/vaishnav-b-612123218/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/vaishnavbsree">
-  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://1tzvaish.github.io">
-  <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
