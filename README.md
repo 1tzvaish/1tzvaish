@@ -250,22 +250,7 @@ Always cooking something new. Bigger projects are in the pipeline — watch this
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--              ANIMATED CONTRIBUTION SNAKE                -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-## <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="28"> &nbsp; Contribution Activity
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/a78bfa/1tzvaish" alt="Vaishnav's Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
