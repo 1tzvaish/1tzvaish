@@ -212,26 +212,6 @@ High-performance automation utilities and network reconnaissance tools, includin
 </table>
 </div>
 
----
-
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--                 ANIMATED GITHUB STATS                  -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-## 📊 &nbsp; GitHub Activity & Metrics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1tzvaish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=1tzvaish&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tzvaish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=1tzvaish&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br/>
-
----
 
 <!-- ╔══════════════════════════════════════════════════════╗ -->
 <!--                    TECHNICAL FOCUS                     -->
