@@ -1,8 +1,8 @@
 <!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--               ANIMATED HEADER BANNER                   -->
+<!--                      HEADER BANNER                     -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=230&section=header&text=Vaishnav%20B&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Edge%20AI%20%26%20Embedded%20Vision%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Robotics%20Data&descSize=18&descAlignY=58&descColor=d4b8ff" />
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Vaishnav%20B&text2=Edge%20AI%20%26%20Embedded%20Vision%20%E2%80%A2%20Full-Stack%20Engineer&width=900&height=210" alt="Vaishnav B Banner" />
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════╗ -->
